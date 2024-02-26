@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.single-todo {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+  padding-right: 30px;
+}
+P {
+  margin-right: 15px;
+  color: #000000;
+}
+button {
+  color: #ff0b37;
+  border-radius: 10px;
+  border-color: #ff0b37;
+  padding: 7px;
+  background-color: #ffffff;
+  border-width: 2px;
+  cursor: pointer;
+  outline: none;
+}
